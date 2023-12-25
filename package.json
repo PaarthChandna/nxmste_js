@@ -1,0 +1,19 @@
+{
+  "name": "nmaste-react--1",
+  "version": "1.0.0",
+  "description": "this in nsmte rxt",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaarthChandna/nxmste_js.git"
+  },
+  "author": "pc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaarthChandna/nxmste_js/issues"
+  },
+  "homepage": "https://github.com/PaarthChandna/nxmste_js#readme"
+}
